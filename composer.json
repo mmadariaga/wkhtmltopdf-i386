@@ -8,6 +8,10 @@
         {
             "name": "Julius Beckmann",
             "email": "github@h4cc.de"
+        },
+        {
+            "name": "Mikel Madariaga",
+            "email": "mikel@irontec.com"
         }
     ],
     "minimum-stability": "stable",
